@@ -1,3 +1,4 @@
+first of all I made this at 5 am and in 10 minutes it's really not the best code out here
 <br />
 <p align="center">
   <h3 align="center">Username Sniper</h3>
@@ -42,4 +43,3 @@ To get a local copy up and running follow these simple steps.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-I also made this in 10 minutes so
