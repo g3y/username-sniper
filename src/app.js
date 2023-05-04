@@ -29,7 +29,7 @@ async function snipeUsername() {
 
 async function main() {
 	while (true) {
-		const res = await snipeUsername();
+		await snipeUsername();
 	}
 }
 
