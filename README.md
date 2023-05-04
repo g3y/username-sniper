@@ -1,7 +1,45 @@
-# username-sniper
-a sniper for the new discord usernames 
+<br />
+<p align="center">
+  <h3 align="center">Username Sniper</h3>
 
-the code isn't the best i've done this at 5 am.. 
+  <p align="center">
+    This script will allow you to snipe the discord usernames also known as Pomelo
+    <br />
+    <br />
+    <a href="https://github.com/g3y/username-sniper/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/g3y/username-sniper/issues">Request Feature</a>
+  </p>
+</p>
 
 
-oh also please give credits and star the repo 
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/g3y/username-sniper.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Go the `config.json` then put your USER token in `token`
+4  Start the sniper 
+   ```sh
+   node app.js
+   ```
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+I also made this in 10 minutes so
