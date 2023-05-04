@@ -21,7 +21,7 @@ async function getUsername() {
 			sleep(Math.floor(Math.random() * (5500 - 3400 + 1) + 3400));
 			break;
 		default:
-			console.log('(-) An error occurred' + res.status);
+			console.log('(-) An error occurred ' + res.status);
 			sleep(Math.floor(Math.random() * (800 - 1400 + 1) + 1400));
 	}
 }
