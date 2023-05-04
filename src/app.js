@@ -30,6 +30,7 @@ async function snipeUsername() {
 async function main() {
 	while (true) {
 		await snipeUsername();
+		// more stuff here soon
 	}
 }
 
