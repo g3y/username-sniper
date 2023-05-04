@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "node-fetch": "^2.6.9"
-  }
+  },
+  "name": "username-sniper",
+  "version": "1.0.0",
+  "description": "a sniper for the new discord usernames",
+  "main": "./src/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g3y/username-sniper.git"
+  },
+  "author": "g3y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g3y/username-sniper/issues"
+  },
+  "homepage": "https://github.com/g3y/username-sniper#readme"
 }
